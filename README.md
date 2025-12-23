@@ -1,0 +1,1 @@
+# jms-argument-resolver-bundle
